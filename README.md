@@ -1,2 +1,21 @@
 # Automated-Life-Ecosystem-Simulator
-Automated-Life-Ecosystem-Simulator (ALES)
+
+GSU Software Engineering Spring 2006 Team Project
+
+
+Team Members
+----
+* Larry Eisenstein
+* John Daigle
+* Michael Balaun
+* Ed Bullwinkel
+* General Rules
+
+
+Rules
+---- 
+
+- Game Board has oxygen and nutrients 
+- Yellow Algae reduces nutrients, increases oxygen 
+- Terramecium reduces oxygen, eats algae 
+- Death increases nutrients
