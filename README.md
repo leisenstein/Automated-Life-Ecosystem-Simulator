@@ -9,10 +9,10 @@ Team Members
 * John Daigle
 * Michael Balaun
 * Ed Bullwinkel
-* General Rules
 
 
-Rules
+
+General Rules
 ---- 
 
 - Game Board has oxygen and nutrients 
