@@ -3,8 +3,7 @@
 GSU Software Engineering Spring 2006 Team Project
 
 
-Team Members
-----
+## Team Members
 * Larry Eisenstein
 * John Daigle
 * Michael Balaun
@@ -12,9 +11,7 @@ Team Members
 
 
 
-General Rules
----- 
-
+## General Rules
 - Game Board has oxygen and nutrients 
 - Yellow Algae reduces nutrients, increases oxygen 
 - Terramecium reduces oxygen, eats algae 
